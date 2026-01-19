@@ -38,10 +38,9 @@ In short: "How can the marketplace increase revenue, reduce cancellations, and r
 
 ## ⚙️ Methodology 
 
-<h3>1.</h3>
+<h3>1. Dataset Used:</h3> 
+Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
-<h3> Dataset Used:</h3> 
-Youtube Live Api considering top 120 channels high performing videos with subscriber count greater than or equal to 10k
 <br>-----
 <ul>
   <li>Built automated <strong>Airflow DAGs</strong> to ingest YouTube metadata</li>
