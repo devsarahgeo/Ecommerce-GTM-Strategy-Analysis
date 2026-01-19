@@ -24,7 +24,7 @@ Specifically, they need to know:
 
 This helps the business identify growth opportunities, reduce operational issues (like cancellations), and improve customer retention.
 
-In short: “How can the marketplace improve revenue, reduce cancellations, and retain more customers?”
+In short: "How can the marketplace improve revenue, reduce cancellations, and retain more customers?"
 </p>
 
 ---
