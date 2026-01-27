@@ -1,4 +1,7 @@
-# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis (Work in progres)
+# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis (Work in progres) 
+
+## 🧭 Request Type
+Ad-hoc request : Required to complete within 7 days
 
 ## 🧭 Executive Summary 
 <p>
