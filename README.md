@@ -41,6 +41,9 @@ In short: "How can the marketplace increase revenue, reduce cancellations, and r
 <h3>1. Dataset Used:</h3> 
 Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
+<h3>Architecture Diagram:</h3>
+<img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
+
 ---
 
 ## 🧠 Skills & Tech Stack
@@ -57,21 +60,20 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
 ## 📈 Results
 
+
 Looker Report Snapshot:
 
 
 
-<h3>Architecture Diagram:</h3>
-<img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
-
 <b>Conclusion:</b>
 
+---
 
 ## 📂 Deliverables
 
-
+---
 ## 📂 Impact
-
+---
 
 ## 📂 Future Scope - Scalable Implementation (if project gets bigger)
 <ul>
