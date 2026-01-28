@@ -14,7 +14,8 @@ To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), 
 
 ### ❓ Research Question
 <p>
-  # GMV:
+  
+##### GMV:
 Which sellers contribute the most to GMV?
 
 Which product categories drive the highest GMV?
