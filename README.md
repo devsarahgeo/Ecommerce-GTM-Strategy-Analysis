@@ -12,7 +12,7 @@ To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), 
 
 ---
 
-### ❓ Research Question
+## ❓ Research Question
 <p>
   
 ##### GMV:
@@ -22,13 +22,13 @@ Which product categories drive the highest GMV?
 
 How does GMV trend over months? Are there seasonal spikes?
 
-# Order Volume & Growth
+##### Order Volume & Growth
 
 How many orders are placed per month?
 
 How many new vs returning customers are placing orders?
 
-# Customer Behavior
+##### Customer Behavior
 
 What is the repeat buyer rate per month?
 
@@ -36,7 +36,7 @@ Which cities or regions have the highest number of active buyers?
 
 Do certain product categories have higher repeat purchases?
 
-# Operational / Cancellation Metrics
+##### Operational / Cancellation Metrics
 
 What is the order cancellation rate over time?
 
@@ -44,14 +44,14 @@ Are cancellations clustered by seller? Which seller regions are slower to ship?
 
 Which product categories have the most canceled orders?
 
-# Delivery / Logistics
+##### Delivery / Logistics
 
 What is the average delivery time?
 
 Are certain sellers or cities experiencing delays?
 
 
-# Customer Segmentation / Clustering
+##### Customer Segmentation / Clustering
 
 Can we segment buyers into high-value / mid-value / low-value groups using RFM (Recency, Frequency, Monetary)?
 
