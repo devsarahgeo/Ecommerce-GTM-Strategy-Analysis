@@ -109,6 +109,7 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
 
 Looker Report Snapshot:
+[Olist_Ecommerce_Analysis.pdf](https://github.com/user-attachments/files/24946054/Olist_Ecommerce_Analysis.pdf)
 
 
 
