@@ -94,6 +94,11 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 <h3>Postgres Snapshot</h3>
 <img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
 
+## 💻 Git File Structure Explained:
+
+analysis/olist_analysis : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
+analysis/olist_analysis_for_bi: This code generates combined tables to answer multiple business questions for use in a BI tool.
+final_demo/Olist-Ecommerce-Analysis: Final demo/business insights showcase made by storing data in Google BigQuery and using Looker to visualize.
 
 ---
 
@@ -125,7 +130,7 @@ Looker Report Snapshot:
 
 ---
 
-## 📂 Business Insights
+## 📊 Business Insights & Recommendations
 
 
 <u>**Key Metrics / Highlights**</u>:
@@ -163,14 +168,14 @@ Customer activity concentrated in Sao Paulo & Rio de Janeiro
 - **Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
 
 ---
-## 📂 Impact
+## 🚀 Impact
 
 Analysis of 2016–2018 data identifies historical trends in high-value customers, peak sales periods, repeat-buying categories, and key regions. These patterns provide actionable guidance for retention, upselling, and regional strategies that can inform current business decisions.
-Comapre with 2025–2026 data to see if the same trends hold and to measure performance.
+We need to comapare this with 2024–2025 data to see if the same trends hold and to measure performance.
 
 ---
 
-## 📂 Future Scope - Scalable Implementation 
+## 🚀 Future Scope - Scalable Implementation 
 *(If the project expands by adding more historical years)*
 
 <ul>
