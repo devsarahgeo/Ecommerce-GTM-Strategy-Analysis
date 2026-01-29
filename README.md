@@ -175,7 +175,7 @@ We need to comapare this with 2024–2025 data to see if the same trends hold an
 
 ---
 
-## 🚀 Future Scope - Scalable Implementation 
+## ⚡ Future Scope - Scalable Implementation 
 *(If the project expands by adding more historical years)*
 
 <ul>
