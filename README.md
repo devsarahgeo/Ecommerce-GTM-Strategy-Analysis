@@ -123,7 +123,6 @@ Looker Report Snapshot:
 
 ## 📂 Business Insights
 
-A few high-value sellers and new customers drive most GMV. Key months and cities provide levers for retention, upselling, and operational improvements, while targeted strategies can reduce cancellations and increase overall revenue
 
 **Key Metrics / Highlights**
 
