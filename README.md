@@ -114,7 +114,7 @@ Looker Report Snapshot:
 
 <img width="973" height="878" alt="Screenshot 2026-01-29 at 2 10 03 PM" src="https://github.com/user-attachments/assets/3632ecca-9132-41a2-be19-241ab89230b7" />
 
-<img width="959" height="881" alt="Screenshot 2026-01-29 at 2 10 08 PM" src="https://github.com/user-attachments/assets/5abe4b85-4ef2-431f-8b84-181cc11f7f22" />
+<img width="963" height="879" alt="Screenshot 2026-01-29 at 2 33 16 PM" src="https://github.com/user-attachments/assets/b6e31d8f-85fd-4a4d-88c6-b9f09e8ee55c" />
 
 <img width="974" height="657" alt="Screenshot 2026-01-29 at 2 10 14 PM" src="https://github.com/user-attachments/assets/aa8d2ba3-db1e-4f78-bbf0-2ac850875ae6" />
 
