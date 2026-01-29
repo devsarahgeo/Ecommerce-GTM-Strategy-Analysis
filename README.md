@@ -156,7 +156,7 @@ Customer activity concentrated in Sao Paulo & Rio de Janeiro
 
 - **Geography-Focused Strategy**: Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities.
 
-**Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
+- **Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
 
 ---
 ## 📂 Impact
