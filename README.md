@@ -124,7 +124,7 @@ Looker Report Snapshot:
 ## 📂 Business Insights
 
 
-**Key Metrics / Highlights**
+<u>**Key Metrics / Highlights**</u>:
 
 | **Metric**                   | **Highlight**                           |
 | ---------------------------- | --------------------------------------- |
@@ -136,7 +136,7 @@ Looker Report Snapshot:
 | **Top Cities**               | Sao Paulo & Rio de Janeiro              |
 
 
-**Customer Insights**
+**Customer Insights**:
 
 New Customers -> drive majority of GMV
 
@@ -144,7 +144,7 @@ Repeat Customers -> October peak
 
 Customer activity concentrated in Sao Paulo & Rio de Janeiro
 
-**Recommendations** 
+**Recommendations**:
 
 **Segment-Specific Marketing:** Implement marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency.
 
