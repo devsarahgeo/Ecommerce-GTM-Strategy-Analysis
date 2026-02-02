@@ -151,9 +151,9 @@ Looker Report Snapshot:
 **Business Insights, Impact & Recommendations**:
 
 <ul>
-<li> New Customers -> drive majority of GMV
--> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
-Launch targeted campaigns to acquire new customers. </li>
+<li> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
+Launch targeted campaigns to acquire new customers. 
+</li>
 
 Repeat Customers -> October peak
 -> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies. October retention peak suggests timing loyalty campaigns before Q4.
