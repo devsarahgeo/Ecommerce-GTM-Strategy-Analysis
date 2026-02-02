@@ -82,19 +82,6 @@ Which segments contribute most to GMV?
 
 ---
 
-## ⚙️ Methodology 
-
-Designed a multi-table analytical model using SQL (joins, CTEs, window functions) and Python to derive core e-commerce metrics. Conducted category, regional, and customer segmentation analysis to identify GTM opportunities and growth signals, and communicated insights via Looker dashboards.
-
-<h3>1. Dataset Used:</h3> 
-Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
-
-<h3>2. Architecture Diagram:</h3>
-<img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
-
-<h3>3. Database (Postgres) Snapshot</h3>
-<img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
-
 ## 💻 Git File Structure Explained:
 
 analysis/olist_analysis : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
@@ -114,6 +101,21 @@ final_demo/Olist-Ecommerce-Analysis: Final demo/business insights showcase made 
   <li><strong>Looker</strong> – Data visualization and storytelling</li>
   <li><strong>SQL and Python</strong> – Analytical querying</li>
 </ul>
+
+---
+
+## ⚙️ Methodology 
+
+Designed a multi-table analytical model using SQL (joins, CTEs, window functions) and Python to derive core e-commerce metrics. Conducted category, regional, and customer segmentation analysis to identify GTM opportunities and growth signals, and communicated insights via Looker dashboards.
+
+<h3>1. Dataset Used:</h3> 
+Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
+
+<h3>2. Architecture Diagram:</h3>
+<img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
+
+<h3>3. Database (Postgres) Snapshot</h3>
+<img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
 
 ---
 
@@ -153,27 +155,27 @@ Looker Report Snapshot:
 <ul>
 <li> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
 
-Launch targeted campaigns to acquire new customers. 
+ <b>Recommendation:</b> Launch targeted campaigns to acquire new customers. 
 </li>
 
 <li> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies.
 
-October retention peak suggests timing loyalty campaigns before Q4. </li>
+<b>Recommendation:</b> October retention peak suggests running loyalty campaigns before Q4. </li>
 
 <li>Customer activity concentrated in Sao Paulo & Rio de Janeiro. Geographic concentration shows high-value markets.
   
-Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
+<b>Recommendation:</b> Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
 
 <li>
 Customers can be grouped into RFM segments (Recency, Frequency, Monetary). Each segment behaves differently (e.g., frequent high-spenders vs. new low-spenders).
   
 Tailoring campaigns to segments can improve revenue and ROI. Generic campaigns may underperform because they ignore behavioral differences
   
-Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
+<b>Recommendation:</b> Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
 
-- Retain high-value customers with loyalty campaigns
-- Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
-- Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
+                    - Retain high-value customers with loyalty campaigns
+                    - Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
+                    - Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
     
 </li>
 
@@ -182,7 +184,7 @@ Historical data shows GMV peaks in May and August. These months consistently gen
 
 The business can maximize revenue by focusing marketing and promotional efforts during these peak months.
 
-Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
+<b>Recommendation:</b> Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
 </li>
 
 <li>
@@ -190,11 +192,7 @@ Run special offers, loyalty programs, and targeted campaigns in May and August t
   
   High cancellations reduce customer satisfaction, revenue, and operational efficiency.
 
-  Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
-  
-</li>
-
-<li>
+  <b>Recommendation:</b> Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
   
 </li>
 
