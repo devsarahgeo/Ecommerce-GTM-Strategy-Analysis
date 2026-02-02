@@ -84,11 +84,11 @@ Which segments contribute most to GMV?
 
 ## 💻 Git File Structure Explained:
 
-analysis/olist_analysis : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
+<strong>analysis/olist_analysis</strong> : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
 
-analysis/olist_analysis_for_bi: This code generates combined tables to answer multiple business questions for use in a BI tool.
+<strong>analysis/olist_analysis_for_bi</strong> : This code generates combined tables to answer multiple business questions for use in a BI tool.
 
-final_demo/Olist-Ecommerce-Analysis: Final demo/business insights showcase made by storing data in Google BigQuery and using Looker to visualize.
+<strong>final_demo/Olist-Ecommerce-Analysis</strong> : Final demo/business insights showcase made by storing data in Google BigQuery and using Looker to visualize.
 
 ---
 
