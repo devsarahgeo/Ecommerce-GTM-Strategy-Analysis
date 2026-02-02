@@ -114,7 +114,7 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 <h3>2. Architecture Diagram:</h3>
 <img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
 
-<h3>3. Database (Postgres) Snapshot</h3>
+<h3>3. Database (Postgres) showing cardinality relationship</h3>
 <img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
 
 ---
