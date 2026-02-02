@@ -152,6 +152,7 @@ Looker Report Snapshot:
 
 <ul>
 <li> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
+
 Launch targeted campaigns to acquire new customers. 
 </li>
 
