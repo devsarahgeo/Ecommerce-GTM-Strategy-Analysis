@@ -156,27 +156,49 @@ Looker Report Snapshot:
 Launch targeted campaigns to acquire new customers. 
 </li>
 
-Repeat Customers -> October peak
--> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies. October retention peak suggests timing loyalty campaigns before Q4.
+<li> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies.
 
-Customer activity concentrated in Sao Paulo & Rio de Janeiro
--> Customer demand is highly concentrated in Sao Paulo and Rio de Janeiro, revealing both strong core markets and untapped regional expansion opportunities. 
+October retention peak suggests timing loyalty campaigns before Q4. </li>
+
+<li>Customer activity concentrated in Sao Paulo & Rio de Janeiro. Geographic concentration shows high-value markets.
+  
+Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
+
+<li>
+Customers can be grouped into RFM segments (Recency, Frequency, Monetary). Each segment behaves differently (e.g., frequent high-spenders vs. new low-spenders).
+  
+Tailoring campaigns to segments can improve revenue and ROI. Generic campaigns may underperform because they ignore behavioral differences
+  
+Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
+
+- Retain high-value customers with loyalty campaigns
+- Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
+- Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
+    
+</li>
+
+<li>
+Historical data shows GMV peaks in May and August. These months consistently generate more revenue than others.
+
+The business can maximize revenue by focusing marketing and promotional efforts during these peak months.
+
+Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
+</li>
+
+<li>
+  Sports Leisure product category has high cancellation rates
+  
+  High cancellations reduce customer satisfaction, revenue, and operational efficiency.
+
+  Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
+  
+</li>
+
+<li>
+  
+</li>
 
 </ul>
-
-**Recommendations**:
-
-- **Segment-Specific Marketing:** Implement marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency.
-
-  -  **Retention of At-Risk High-Value Customers**: Re-engage “Cannot Lose Them” customer segment through targeted campaigns before they churn.
-  
-  -  **Upsell & Monetize Frequent Buyers**: Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
-
-- **Leverage Peak Months**: Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
-
-- **Geography-Focused Strategy**: Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities.
-
-- **Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
 
 ---
 
