@@ -173,9 +173,9 @@ Tailoring campaigns to segments can improve revenue and ROI. Generic campaigns m
   
 <b>Recommendation:</b> Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
 
-                    - Retain high-value customers with loyalty campaigns
-                    - Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
-                    - Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
+- Retain high-value customers with loyalty campaigns
+- Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
+- Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
     
 </li>
 
